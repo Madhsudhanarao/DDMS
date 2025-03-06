@@ -1,8 +1,12 @@
-About the Project:
-The Digital Document Management System (DDMS) is a web application that helps users upload, sign, download, and share documents easily. It ensures secure access and helps manage documents digitally.
+Project Overview
+The Digital Document Management System (DDMS) is a web-based application built using React. It provides users with an intuitive and secure platform to upload, sign, download, and share documents. The UI is designed to be modern, responsive, and user-friendly.
+
+Objective
+To develop a clean and accessible UI that enables seamless document management while ensuring security, ease of use, and efficiency.
 
 Features
-✅ Upload documents
-✅ Digitally sign documents
-✅ Download and share files
-✅ Secure login and authentication
+✅ User Authentication – Secure login/logout functionality
+✅ Document Upload – Drag-and-drop, file selection, real-time progress tracking
+✅ Digital Signature – Draw, type, or upload a signature with customization options
+✅ Download & Share – Download signed documents and share via email or cloud storage
+✅ Responsive UI – Works across desktops and mobile devices
