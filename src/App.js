@@ -1,7 +1,7 @@
 import DocumentManagement from "./components/DocumentManagement";
 
 function App() {
-  return <DocumentManagement />;
+  return <DocumentManagement/>;
 }
 
 export default App;
